@@ -23,7 +23,7 @@ This project implements the Llama 2 language model, a state-of-the-art large lan
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yared-alt/Host-LLAMA-2-7b-AI.git
+git clone https://github.com/yared-alt/LLAMA-2-7B.git
 cd Host-LLAMA-2-7b-AI
 ```
 
